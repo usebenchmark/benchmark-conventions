@@ -1,8 +1,8 @@
 {
 	"metadata": {
-		"title": "My Blog",
-		"description": "My second, super-cool blog."
-	},
+		"title": "Benchmark Conventions",
+		"description": "Benchmark Development Conventions"
+	}
 	"plugins": {
 		"metalsmith-markdown": {},
 		"metalsmith-permalinks": { "pattern": ":title" },
