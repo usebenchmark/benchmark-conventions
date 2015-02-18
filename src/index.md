@@ -1,3 +1,4 @@
 ---
-template: index.html
+title: Benchmark Conventions
+template: home.hbt
 ---
