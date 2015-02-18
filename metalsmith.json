@@ -2,7 +2,7 @@
 	"metadata": {
 		"title": "Benchmark Conventions",
 		"description": "Benchmark Development Conventions"
-	}
+	},
 	"plugins": {
 		"metalsmith-markdown": {},
 		"metalsmith-permalinks": { "pattern": ":title" },
