@@ -19,7 +19,7 @@ metalsmith(__dirname)
     verbose: true
   }))
   .use(watch({
-    pattern : '**/*',
+    pattern : [__dirname + '/templates/**/*', '**/*'],
     livereload: true
   }))
   .build(function (err) {
